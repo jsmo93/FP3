@@ -6,20 +6,19 @@ For full description, see the project schedule [on Piazza.][piazza]
 <i>Edit this file to make your report!</i>
 
 ### Team Members
-* github names and real names.
-* Teams of less than two members, or more than three members must get written permission from Mark in advance.
+* Jsmo93 - Josh Smolinski
 
-### A Team Name
-for the purpose of creating a github group
+### Team Name
+Jsmo93
 
 ### Project Title
-10 words or fewer
+List/Tree GUI Editor
 
 ### Project Concept
-can be basic, fluid. Details will be in the next assignment.
+My goal is to create a graphical viewing and editing tool for data structures in Scheme. The tool will be able to open and load files and display a single list. This list can then be edited and resaved to the same file.
 
 ### Libraries You Plan to Use 
-as a group
+GUI, Drawing
 
 ### How to Do and Submit this assignment
 
@@ -36,4 +35,3 @@ as a group
 [ref-commit]: http://gitref.org/basic/#commit
 [ref-push]: http://gitref.org/remotes/#push
 [pull-request]: https://help.github.com/articles/creating-a-pull-request
-
